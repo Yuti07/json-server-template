@@ -69,20 +69,6 @@
       "ingredients": ["Onion", "Garlic", "red Bell Perppers","Kidney Beans","lime","Olive oil dressing","Corn Kernels"],
       "instructions": "Add boiled kidney beans, to roasted onions and bell peppers, garlic and boiled corn kernels,garnish it with lime and olive oil dressing, serve it Hot!",
       "image": "Images/Vegetarian_Chili.jpg"
-    },
-    {
-    "title": "Sweet Potato Soup",
-    "ingredients": [
-    "sweet Potato",
-    "apple",
-    "Vegetable broth",
-    "coconut milk",
-    "Coriander",
-    "ginger"
-    ],
-    "instructions": "Saute sweet potato, apple along with broth for 5 mins, add ginger, simmer and garnish it with coconut milk and coriander.",
-    "image": "./sweet-potato-soup-1-697x1024.jpg",
-    "id": 11
     }
   ]
 }
